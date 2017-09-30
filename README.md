@@ -54,6 +54,8 @@ C:\Users\User\Documents\Visual Studio 2015\My Exported Templates
 
 To use the template select it here. My templates were called StandardVB and StandardVBConsole.
 
+
+![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/VS2015.png)
  
 
 
