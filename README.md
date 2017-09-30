@@ -41,6 +41,18 @@ http://informatix.miloush.net/microframework/Articles/VBinMF44.aspx?_setCulture=
 
 
 
+The registry key should look like this:
+
+
+![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/Reg.png)
+
+
+
+
+
+
+
+
 
 
 
