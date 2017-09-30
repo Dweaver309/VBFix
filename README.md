@@ -59,6 +59,8 @@ To use the template select it here. My templates were called StandardVB and Stan
  
 
 
+My template is here:
 
+https://github.com/Dweaver309/VBFix/blob/master/StandardVB.zip
 
 It’s fixed!
