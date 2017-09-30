@@ -33,7 +33,8 @@ http://informatix.miloush.net/microframework/Articles/VBinMF44.aspx?_setCulture=
 1.	Add "/load:C:\Program Files (x86)\Microsoft .NET Micro Framework\v4.4\Assemblies\le\mscorlib.pe" command line option into the registry (including the quotation marks).
 For the standard emulator, you need to create an AdditionalCommandLineOptions string value under the HKLM\SOFTWARE\WOW6432Node\Microsoft\.NETMicroFramework\v4.4\Emulators\Microsoft key.
 Key should look like this:
- 
+ ![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/Reg.png)
+
 
  
 2.	Add <VBRuntime>C:\Program Files (x86)\Microsoft .NET Micro Framework\v4.4\Assemblies\le\Microsoft.VisualBasic.dll</VBRuntime> to the project file.
