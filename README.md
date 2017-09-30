@@ -29,11 +29,27 @@ http://informatix.miloush.net/microframework/Articles/VBinMF44.aspx?_setCulture=
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Next save a template so  you don’t have to make the project file each time.
 
 
 How to use the template file
-
  
 
 The File will be saved here:
@@ -43,8 +59,27 @@ C:\Users\User\Documents\Visual Studio 2015\My Exported Templates
 To use the template select it here. My templates were called StandardVB and StandardVBConsole.
 
 
-![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/VS2015.png)
+![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/Template.png)
+
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 My template is here:
