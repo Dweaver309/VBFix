@@ -24,11 +24,9 @@ From this page:
 
 http://informatix.miloush.net/microframework/Articles/VBinMF44.aspx?_setCulture=cs-CZ
 
+![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/Fix.png)
 
 
-
-Key should look like this:
- ![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/Reg.png)
 
  
 Next save a template so  you don’t have to make the project file each time.
