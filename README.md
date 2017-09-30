@@ -27,21 +27,9 @@ http://informatix.miloush.net/microframework/Articles/VBinMF44.aspx?_setCulture=
 
 
 
-
-
-3 easy steps to make Visual Basic working with the legacy compiler
-1.	Add "/load:C:\Program Files (x86)\Microsoft .NET Micro Framework\v4.4\Assemblies\le\mscorlib.pe" command line option into the registry (including the quotation marks).
-For the standard emulator, you need to create an AdditionalCommandLineOptions string value under the HKLM\SOFTWARE\WOW6432Node\Microsoft\.NETMicroFramework\v4.4\Emulators\Microsoft key.
 Key should look like this:
  ![Screenshot](https://github.com/Dweaver309/VBFix/blob/master/Reg.png)
 
-Add <VBRuntime>C:\Program Files (x86)\Microsoft .NET Micro Framework\v4.4\Assemblies\le\Microsoft.VisualBasic.dll</VBRuntime> to the project file.
-You probably want to modify the .NET Micro Framework targets file instead ("C:\Program Files (x86)\MSBuild\Microsoft\.NET Micro Framework\v4.4\VisualBasic.targets" ) so that all Visual Basic projects work as they are.
- 
-To the same file, add the explicit runtime reference:
-<ItemGroup>
-  <Reference Include="Microsoft.VisualBasic"/>
-</ItemGroup>
  
 Next save a template so  you don’t have to make the project file each time.
 
