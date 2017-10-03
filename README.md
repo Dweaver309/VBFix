@@ -98,9 +98,11 @@ My template is here:
 
 https://github.com/Dweaver309/VBFix/blob/master/StandardVB.zip
 
-I have added this file that will make the registrhttps://github.com/Dweaver309/VBFix/blob/master/VBVSFix.regy changes when clicked on.
+I have added this file that will make the registry changes with clicked on
 
 https://github.com/Dweaver309/VBFix/blob/master/VBVSFix.reg
+
+
 
 
 It’s fixed!
