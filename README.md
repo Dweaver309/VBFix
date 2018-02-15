@@ -4,7 +4,6 @@ Use Visual Basic with Microsoft Visual Studio 2015 and .Net Micro Framework 4.4
 How To Use Visual Basic in .Net Micro Framework 4.4
 
 1.	Install Visual Studio 2015  
-Note: 2017 doesn’t support with NMF4.4
 
 https://go.microsoft.com/fwlink/?LinkId=532606&clcid=0x409
 
